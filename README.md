@@ -103,7 +103,7 @@ IP address Default gateway DNS server Benefits: Automation Prevents IP conflicts
 DNS server configured for name resolution on the network.
 
 
-📍 Configuration: DNS IP: 192.168.2.131 Function: www.empresa.net → 192.168.2.131
+📍 Configuration: DNS IP: 192.168.2.131 Function: www.empresa.com → 192.168.2.131
 
 
 Allows access by name rather than IP. If you wish, you can test ‘empresa.com’ in the web browser of any company PC and you will be taken to the website!
