@@ -18,7 +18,7 @@ A rede foi segmentada utilizando VLANs para separar logicamente os departamentos
 
 Departamento	VLAN	Sub-rede
 
-TI	10	192.168.1.0/25
+TI	10	192.168.1.0/25,
 Administração/Vendas	20	192.168.1.128/25
 RH e Marketing	30	192.168.2.0/25
 Servidores	40	192.168.2.128/25
@@ -145,9 +145,9 @@ Escalabilidade e redundância
 Aplicação de conceitos reais de mercado
 
 📎 Tecnologias Utilizadas
-Cisco Packet Tracer
-VLAN (802.1Q)
-OSPF
-DHCP
-DNS
-IoT Simulation
+Cisco Packet Tracer,
+VLAN (802.1Q),
+OSPF,
+DHCP,
+DNS,
+IoT Simulation.
